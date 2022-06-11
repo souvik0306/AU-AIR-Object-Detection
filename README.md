@@ -1,3 +1,4 @@
 # AU-AIR-Object-Detection
 
-Download AU-AIR Dataset - [Link](https://bozcani.github.io/auairdataset#download)
+Download AU-AIR Dataset (Frames + Annotations) - [Link](https://bozcani.github.io/auairdataset#download)
+
